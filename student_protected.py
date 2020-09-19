@@ -32,5 +32,5 @@ class student(protected): #derived class
 
 #creating object to call function
 obj = student("Amit",120,"Information")
-print("Name:",obj._name)
+print("Name: ",obj._name)
 obj.display()
